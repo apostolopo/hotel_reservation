@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ksenodoxeio
+comment1.params=dwm
+comment1.target=void\ prosthiki_dwmatiou(Dwmatio)
+comment2.params=kwd
+comment2.target=Dwmatio\ anaktish_dwmatiou(int)
+comment3.params=kwd
+comment3.target=Kratisi\ anaktish_kratisis(int)
+comment4.params=kr\ kwd
+comment4.target=boolean\ prosth_krat_dwmatio(Kratisi,\ int)
+comment5.params=kr
+comment5.target=int\ prost_kratisis(Kratisi)
+comment6.params=kwd
+comment6.target=void\ akirosi_kratisis(int)
+comment7.params=
+comment7.target=double\ ypol_esoda()
+comment8.params=kwd
+comment8.target=double\ ypol_esoda(int)
+comment9.params=
+comment9.target=void\ plano_kratisewn()
+numComments=10

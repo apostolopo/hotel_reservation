@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kratisi
+comment1.params=
+comment1.target=Kratisi()
+comment2.params=on_pelati\ afixi\ meres_diamonhs\ atoma
+comment2.target=Kratisi(java.lang.String,\ int,\ int,\ int)
+comment3.params=afixi\ meres_diamonhs\ atoma
+comment3.target=Kratisi(int,\ int,\ int)
+comment4.params=domatio
+comment4.target=void\ Room(Dwmatio)
+numComments=5

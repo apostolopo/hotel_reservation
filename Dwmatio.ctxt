@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dwmatio
+comment1.params=
+comment1.target=Dwmatio()
+comment2.params=kr
+comment2.target=boolean\ prosthiki_kratisis(Kratisi)
+comment3.params=kwd_kratis
+comment3.target=boolean\ akirosi(int)
+comment4.params=
+comment4.target=double\ poso_plirotitas()
+comment5.params=
+comment5.target=double\ timologisi()
+numComments=6
